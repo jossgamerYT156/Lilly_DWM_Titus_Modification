@@ -81,11 +81,18 @@ yajl-devel-2.1.0._4      /usr/include/yajl/yajl_gen.h
 Installation
 ------------
 Clone the repository, then compile and install.
+Original Repo>
 ```sh
 $ git clone https://github.com/ChrisTitusTech/dwm-titus.git
 $ cd dwm-titus
 $ make
 $ sudo make install
+```
+
+for this one, replace the `git clone` command with:
+
+```sh
+git clone https://github.com/jossgamerYT156/Lilly_DWM_Titus_Modification.git
 ```
 
 A dwm.desktop file will be placed in /usr/share/xsessions/ so if you are using a login manager you should now be able to select dwm as the window manager when logging in.
