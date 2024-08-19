@@ -93,3 +93,8 @@ A dwm.desktop file will be placed in /usr/share/xsessions/ so if you are using a
 If you do not use a login manager then you already know what you are doing. Add exec dwm at the end of your ~/.xinitrc file.
 
 By default new terminals are opened by using the keyboard shortcut of Super+x while rofi is started using Super+r.
+# dwm-titus
+This is just a modification to the repo made by Chris Titus on [Github](https://github.com/ChrisTitusTech)
+
+I just grabbed that code and made slight modifications to fit my needs to edit code that works out of the box.
+Apologies to Chris for brutally destroying his nice syntax.
