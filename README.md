@@ -3,7 +3,7 @@ dwm - dynamic window manager
 dwm is an extremely fast, small, and dynamic window manager for X.
 
 <details>
-  <summary>This is my personal fork with following patches:</summary>
+  <summary>This is my personal fork with following patches(Note from Lilly: This is a fork from Chris Titus' Fork, i am still working on it on my pc, so there won't be any changes here, yet.):</summary>
 
   - alwayscenter
   - alwaysfullscreen
@@ -25,7 +25,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
   - hide vacant tags
   - warp v2
   - winicon
-
+(More notes: These all stay the same, i will change some keybinds and some other things regarding BSD compatibility and portability for my personal PC and personal usage.)
 ❕ Some patches are rewritten or modified to work together.
 </details>
 
@@ -105,3 +105,5 @@ This is just a modification to the repo made by Chris Titus on [Github](https://
 
 I just grabbed that code and made slight modifications to fit my needs to edit code that works out of the box.
 Apologies to Chris for brutally destroying his nice syntax.
+
+More notes: I am still working on some things, so expect no changes for some time, as well, please support the original for of this fork by Chris Titus.
